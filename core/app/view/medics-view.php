@@ -32,7 +32,7 @@
 			<th>Email</th>
 			<th>Telefono</th>
 			<th>Area</th>
-			<th></th>
+			<th>Opciones</th>
 			</thead>
 			<?php
 			foreach($users as $user){
@@ -50,9 +50,8 @@
 
 				</td>
 				</tr>
-				<?php
-?>
-</table>
+
+
 <?php
 			}
 
@@ -69,3 +68,4 @@
 </div>
 	</div>
 </div>
+</table>

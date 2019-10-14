@@ -14,4 +14,3 @@ Sistema de Citas Medicas usando PHP, MySQL y Bootstrap.
 - Reportes por paciente, medico, rango de fecha, estado, tipo de pago
 - Descarga de reporte enformato word
 
-### Powered by Evilnapsis

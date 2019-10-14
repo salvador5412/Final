@@ -25,6 +25,17 @@
 	<li>Historial de Citas por Medico</li>
 	<li>Buscador avanzado por : Palabra clave, medico, paciente y fecha.</li>
 </ul>
-<p>Evilnapsis &copy; 2015</p>
+<h4> Alumos</h4>
+<ul>
+
+<li>Carlos Armando Ayala Moran</li>
+	<li>Salvador Alexander Henriquez</li>
+	<li>Carlos Daniel Hernandez</li>
+
+
+</ul>
+
+
+<p>Intituto Nacional Thomas Jefferson &copy; 2019</p>
 </div>
 </div>

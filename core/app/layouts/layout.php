@@ -137,14 +137,10 @@
             <ul>
               <li>
                 <a href="./?view=changelog" >
-                  Log de cambios
+                  modificaciones e errores
                 </a>
               </li>
-              <li>
-                <a href="http://evilnapsis.com/" target="_blank">
-                  Evilnapsis
-                </a>
-              </li>
+             
         <!--
               <li>
                 <a href="#">
@@ -165,7 +161,7 @@
             </ul>
           </nav>
           <p class="copyright pull-right">
-            <a href="http://evilnapsis.com" target="_blank">Evilnapsis</a> &copy; 2016 
+            <a href="#">Intituto Nacional Thomas Jefferson</a> &copy; 2019
           </p>
         </div>
       </footer>
